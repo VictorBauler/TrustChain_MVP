@@ -15,4 +15,4 @@ INE410135 – Blockchain &amp; Cryptocurrencies Technologies
 - Clone this repository
 - Run `poetry install` to install the Python dependencies
 - Run `poetry shell` to activate the virtual environment
-- Run `brownie run scripts/deploy.py --network ganache` to deploy the smart contracts to the local Ganache network
+- Run `.venv\Scripts\brownie.exe run scripts\deploy.py --network development` to deploy the smart contracts to the local Development network
